@@ -1,2 +1,2 @@
-# Data-Analysis-for-Supermarket-Store-Using-Microsoft-Excel
+# Data_Analysis_for_Supermarket_Store_Using_Microsoft-Excel
 "My first project on data analysis"
